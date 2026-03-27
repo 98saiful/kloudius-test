@@ -3,6 +3,11 @@
 I built this app as an interview assessment to demonstrate a clean authentication flow in React Native with Expo.
 It includes login, signup, home routing, form validation, persisted session state, and a minimalist UI.
 
+## Screenshots
+![Login screen](./assets/screenshots/login.png)
+![Signup screen](./assets/screenshots/signup.png)
+![Home screen](./assets/screenshots/home.png)
+
 ## Tech Stack
 
 - Expo + React Native
