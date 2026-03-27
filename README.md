@@ -70,6 +70,13 @@ npm run start
 - Password visibility toggle
 - Minimalist UI styling
 
+## Test Account
+
+You can use this existing account to test the login flow:
+
+- Email: `admin@mail.com`
+- Password: `admin123`
+
 ## Notes
 
 - This app uses `react-native-mmkv`, so it does **not** run in Expo Go.
